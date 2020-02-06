@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/allanbs/2 Ano/AEDA/TP Classes/TP5/aeda1920_fp05/Tests/crianca.h
+string
+-
+sstream
+-
+
+/home/allanbs/2 Ano/AEDA/TP Classes/TP5/aeda1920_fp05/Tests/jogo.cpp
+jogo.h
+/home/allanbs/2 Ano/AEDA/TP Classes/TP5/aeda1920_fp05/Tests/jogo.h
+cstdlib
+-
+ctime
+-
+iostream
+-
+algorithm
+-
+iterator
+-
+
+/home/allanbs/2 Ano/AEDA/TP Classes/TP5/aeda1920_fp05/Tests/jogo.h
+crianca.h
+/home/allanbs/2 Ano/AEDA/TP Classes/TP5/aeda1920_fp05/Tests/crianca.h
+list
+-
+string
+-
+

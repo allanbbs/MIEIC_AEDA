@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/aedaTP_2.dir/main.cpp.o CMakeFiles/aedaTP_2.dir/Tests/tests.cpp.o CMakeFiles/aedaTP_2.dir/Tests/frota.cpp.o CMakeFiles/aedaTP_2.dir/Tests/veiculo.cpp.o  -o aedaTP_2 lib/libgtestd.a lib/libgtest_maind.a lib/libgtestd.a -lpthread 

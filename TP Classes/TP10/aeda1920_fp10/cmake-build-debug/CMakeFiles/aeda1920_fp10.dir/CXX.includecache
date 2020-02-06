@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/allanbs/2 Ano/AEDA/TP Classes/TP10/aeda1920_fp10/Tests/caixa.cpp
+caixa.h
+/home/allanbs/2 Ano/AEDA/TP Classes/TP10/aeda1920_fp10/Tests/caixa.h
+sstream
+-
+
+/home/allanbs/2 Ano/AEDA/TP Classes/TP10/aeda1920_fp10/Tests/caixa.h
+stack
+-
+iostream
+-
+
